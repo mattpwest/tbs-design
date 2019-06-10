@@ -1,0 +1,8 @@
+Tree green,219833
+Grass green,51A31D
+Light brown,BF6119
+Light blue,66C8EC
+Light gray,B3B3B3
+White,FFFFFF
+Red,CE1515
+Dark gray,5E5E5E
