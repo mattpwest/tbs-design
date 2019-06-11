@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a126b6f7598fa4351aa7343455955db1, type: 3}
   m_Name: SoldierFaction
   m_EditorClassIdentifier: 
-  name: 
-  color: {r: 0, g: 0, b: 0, a: 0}
+  name: Soldiers
+  color: {r: 0.48627454, g: 0.7607844, b: 0.8862746, a: 0}
